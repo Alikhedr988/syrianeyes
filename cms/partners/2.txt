@@ -1,0 +1,1 @@
+SELECT * FROM `partners` WHERE id = 18 LIMIT 1

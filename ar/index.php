@@ -1,0 +1,10 @@
+<?php include('public/header.php')?>
+<?php include('public/who-we-are.php')?>
+<?php include('public/projects.php')?>
+<?php include('public/projects-slider.php')?>
+<?php include('public/gallery.php')?>
+<?php include('public/media.php')?>
+<?php include('public/partners.php')?>
+<?php include('public/involved.php')?>
+<?php include('public/contact.php')?>
+<?php include('public/footer.php')?>

@@ -1,0 +1,1 @@
+DELETE FROM `partners` where id = 18  LIMIT 1

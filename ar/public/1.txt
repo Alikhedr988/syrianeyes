@@ -1,0 +1,1 @@
+SELECT * FROM `story_imgs` where `story_id` =5 AND img_name = '_MG_3112.jpg'

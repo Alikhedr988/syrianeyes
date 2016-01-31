@@ -1,0 +1,4 @@
+UPDATE emails SET
+            email = 'contact@syrianeyes.org' 
+            where id='3'
+            LIMIT 1

@@ -1,0 +1,41 @@
+    .lit-sections {
+        display: block;
+    }
+    
+    .lit-sections,
+    .container-fluid,
+    .orbitlogo {
+        margin-top: -280px;
+    }
+    
+    .H2Hlogo {
+        top: 270px;
+        left: -3%;
+    }
+    
+    .profilelogo {
+        left: -27%;
+    }
+    
+    .artlogo {
+        top: 300px;
+        left: 22%;
+    }
+    
+    .litlogo {
+        top: 300px;
+        left: -51%;
+    }
+    
+    .banner {
+        position: relative;
+        overflow: auto;
+    }
+    
+    .banner li {
+        list-style: none;
+    }
+    
+    .banner ul li {
+        float: left;
+    }

@@ -1,0 +1,5 @@
+UPDATE meta SET
+            keywords = '<p>d</p>' ,
+            description = '<p>asdasdasda sf</p>' 
+            where id='1'
+            LIMIT 1

@@ -1,0 +1,3 @@
+UPDATE `video-albums`
+                                    SET `video_album_title`='Syrian eyes Caravan', `video_album_desc`='<p>Eid Carnival , Beqaa Valley</p>', `video_url`='https://www.youtube.com/watch?v=Qzd44QWYLBw', publish_date='2015-10-31 10:00:24'
+                                    WHERE `id`='6' ;

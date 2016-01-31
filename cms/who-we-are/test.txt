@@ -1,0 +1,16 @@
+UPDATE whoweare SET
+            whotext = '<p style="text-align: center;">&nbsp;A voluntary non-profit organization based in Lebanon</p>
+<p style="text-align: center;">Formed By Motivated youth who believe in human rights</p>
+<p style="text-align: center;">Emphasizing the fact that people are Equal and that people in need are right</p>
+<p style="text-align: center;">Holders. We as Syrian Eyes team are</p>
+<p style="text-align: center;">Aiming to provide relief assistance to displaced</p>
+<p style="text-align: center;">Syrian refugee in the informal Tented settlements</p>
+<p style="text-align: center;">In Lebanon and people most in need from the host community.</p>
+<p style="text-align: center;">Starting from our goals and vision and from being on the ground</p>
+<p style="text-align: center;">We believe in the importance of working in the development sector as well</p>
+<p style="text-align: center;">Engaging with the main stakeholders to implement sustainable projects based</p>
+<p style="text-align: center;">On</p>
+<p style="text-align: center;">Their needs in order to improve their living conditions.</p>
+<p style="text-align: center;">&nbsp;</p>' , 
+            whotext_arabic = ''
+            LIMIT 1

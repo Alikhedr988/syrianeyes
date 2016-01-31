@@ -1,0 +1,1 @@
+SELECT * FROM `media-story` ORDER BY publish_date desc

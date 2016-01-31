@@ -1,0 +1,4 @@
+UPDATE social SET
+            link = 'https://www.youtube.com/channel/UCfMhG_xKdD9TBpc-NY0uL6A/feed' 
+            where id='2'
+            LIMIT 1
